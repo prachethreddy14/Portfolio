@@ -1,6 +1,8 @@
-# Netflix-Themed Portfolio - Pracheth Bacholla
+# My Software Engineering Portfolio - Pracheth Bacholla
 
-A modern, Netflix-inspired portfolio website showcasing projects, experience, and skills.
+A modern, Netflix-inspired portfolio website showcasing a collection of full-stack, backend, and cloud projects built using Java, Spring Boot, React, Node.js, SQL, and AWS. Features production-ready applications, scalable microservices, data dashboards, and real-world problem-solving skills demonstrated during internships at Northern Trust and Prudential.
+
+**Built with:** Next.js 14, TypeScript, Tailwind CSS, React, and deployed on Vercel.
 
 ## Features
 
@@ -82,10 +84,20 @@ portfolio/
 
 ## Technologies Used
 
-- **Next.js 14** - React framework
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Utility-first CSS
+### Portfolio Website
+- **Next.js 14** - React framework with App Router
+- **TypeScript** - Type-safe development
+- **Tailwind CSS** - Utility-first CSS framework
 - **React** - UI library
+- **Vercel** - Deployment and hosting platform
+
+### Projects Showcased
+- **Backend:** Java, Spring Boot, Node.js, REST APIs, GraphQL, WebSockets
+- **Frontend:** React.js, Redux, Material UI, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, Jenkins, GitHub Actions
+- **Languages:** Java, Python, JavaScript, C
+- **ML/Data:** Python, Pandas, Scikit-learn, Decision Trees
 
 ## License
 
